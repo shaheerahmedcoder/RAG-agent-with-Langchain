@@ -22,7 +22,6 @@ This project is a **Retrieval-Augmented Generation (RAG) chatbot** built using L
 
 * Python
 * LangChain
-* OpenAI GPT-4o-mini
 * FAISS (Vector Database)
 * PyPDF
 * Gradio
